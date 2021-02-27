@@ -9,5 +9,5 @@ Below is the Mainframe of the Dashboard and the AI bot.
 <br><br><br>
 <img width="959" alt="Freeda" src="https://user-images.githubusercontent.com/79741648/109386162-dbe30480-791e-11eb-9743-43ce5d5d7420.PNG">
 <br><br><br>
-Freeda:
+Freeda: Named Professor Bot
 <img width="960" alt="Freeda 2" src="https://user-images.githubusercontent.com/79741648/109386246-6fb4d080-791f-11eb-9971-351e0e3711ea.PNG">
